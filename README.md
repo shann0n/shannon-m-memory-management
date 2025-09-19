@@ -1,4 +1,4 @@
-# Twingate Memory Manager
+# Memory Manager
 
 ## Overview
 This project implements a simple memory manager in Python that simulates allocation and freeing of a contiguous block of memory. The memory manager supports:
